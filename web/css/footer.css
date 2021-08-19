@@ -1,0 +1,97 @@
+
+.myfooter{
+    height: 50%;
+    display: flex;
+    background-color: #3b5379;
+    opacity: 0.9;
+    width: 100%;
+    padding: 1% 0% 0% 0%;
+}
+.myfooter h1{
+    color: white;
+        font-size: 20px;
+}
+.f1,.f2,.f3{
+    width: 20%;
+    background-color: transparent;
+    padding: 2% 2% 0% 2%;
+}
+
+.foot-list li{
+    padding: 2%;
+    list-style: none;
+    color: white;
+}
+.info a{ 
+color: white;
+}
+.info{
+   padding: 2% 1% 0% 10%;
+    width: 40%;
+    background-color: transparent;
+       
+}
+.info p{
+    display: block;
+    height: 50%;
+    width: 60%;
+    line-height: 150%;
+    color: white;
+}
+.info h1{
+    padding-bottom: 1%;
+}
+.f2 a{
+    color: white;
+}
+.f1 a{
+    color: white;
+}
+.f3 a{
+    color: white;
+}
+
+.social{
+    display: flex;
+}
+.left-social{
+  padding: 1% 1% 0% 10%;
+}
+.right-paycards{
+      padding: 0% 1% 0% 5%;
+}
+.soc{
+    padding: 1%;
+}
+.pay{
+    padding: 1%;
+}
+.mid{
+    padding: 1% 1% 1% 7%;
+}
+.mid-links{
+    margin-top: 10px;
+        padding: 0% 2% 1% 3%;
+        color: whitesmoke;
+}
+
+.copyright{
+     padding: 3% 0% 0% 0%;
+     font-size: 13px;
+}
+.foot-heading span{
+    color: inherit;
+    font-weight:600;
+}
+.foot-heading h1{
+    color: white;
+    font-size:32px;
+    font-weight:900;
+}
+.soc:hover{
+    background-color: red;
+}
+
+.foot-heading{
+   height: 40px; 
+}

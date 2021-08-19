@@ -1,0 +1,14 @@
+SMAP
+order_005fshipp_005fdetail_jsp.java
+JSP
+*S JSP
+*F
++ 0 order_shipp_detail.jsp
+order_shipp_detail.jsp
+*L
+5,30:44
+35:74,2
+36,30:76
+66:106,2
+67,62:108
+*E

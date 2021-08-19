@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 25, 2021, 11:27:18 PM
+    Author     : Windows7
+*/
+
+.order-guide-head{
+    margin: 20px;
+    padding: 20px;
+    background-color: gainsboro;
+}
+.order-guide-head p{
+    font-size: 20px;
+}
+.order-steps{
+   background-color: ghostwhite;
+   margin: 20px;
+   padding: 20px;
+}
+.shipping-details{
+    background-color:gainsboro;
+    margin: 20px;
+    padding: 20px;
+}
+.shipping-details p{
+    font-size: 20px;
+}

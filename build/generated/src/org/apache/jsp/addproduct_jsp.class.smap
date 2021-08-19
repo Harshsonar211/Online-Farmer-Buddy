@@ -1,0 +1,12 @@
+SMAP
+addproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 addproduct.jsp
+addproduct.jsp
+*L
+5,306:47
+311:353,2
+312,64:355
+*E
