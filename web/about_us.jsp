@@ -1,7 +1,7 @@
 <%-- 
     Document   : about_us
     Created on : Apr 25, 2021, 10:10:13 PM
-    Author     : Windows7
+    Author     : Windows10
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
